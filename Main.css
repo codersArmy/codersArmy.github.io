@@ -1,1 +1,11 @@
-<!--css page-->
+/*css page*/
+ body {
+      background-color: black;
+      line-height: 50%;
+    }
+    .text {
+    color: rgb(51,255,51);
+    text-align: center;
+    }
+	a{ text-decoration: none;
+	}
