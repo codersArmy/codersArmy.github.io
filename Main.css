@@ -9,3 +9,7 @@
     }
 	a{ text-decoration: none;
 	}
+	
+	#wholecont {width:100%;}
+	#halfleft {width:50%;float:left;color:white;}
+	#halfright {width:100%;color:white;}
