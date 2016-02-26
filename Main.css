@@ -9,7 +9,12 @@
     }
 	a{ text-decoration: none;
 	}
-	
+
+  .edgar{
+    color: white;
+    font-size: 20px;
+  }
+
 	#wholecont {width:100%;}
 	#halfleft {width:50%;float:left;color:white;}
 	#halfright {width:100%;color:white;}
