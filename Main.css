@@ -1,4 +1,8 @@
 /*css page*/
+*{
+  box-sizing: border-box;
+}
+
  body {
       background-color: black;
       line-height: 50%;
